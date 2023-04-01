@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/gustavo-manzano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
 
 ---
-### Contributions GITHUB
+### GITHUB Contributions
 
 <div align="center">
   <a href="https://github.com/gumanzanoo">
