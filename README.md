@@ -1,10 +1,6 @@
 ## 👋 Hi, I'm Gustavo Manzano
  <a href="https://www.linkedin.com/in/gustavo-manzano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
 
-- 👀 I’m interested in Web Development 
-- 💗 Passionate about learning and technology
-- 🚀 Never Stop Learning!
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhonny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhonny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
